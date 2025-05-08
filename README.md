@@ -5,35 +5,18 @@
     </td>
     <td>
 
-## 👋 Olá! Eu sou o Caio
+### 👋 Olá, sou o Caio
+🎨 Designer | 🧠 Ilustrador | 💻 Desenvolvedor
 
-🎨 **Designer | 🧠 Ilustrador | 💻 Desenvolvedor**
+Sou um criador que combina lógica e criatividade para transformar ideias em experiências visuais e interativas. Tenho experiência com C e Python, sempre buscando criar código limpo e escalável. No design, trabalho com identidades visuais, interfaces, arte conceitual e personagens, usando ferramentas como Photoshop, Illustrator e Procreate.
 
-Sou um criador multidisciplinar que une lógica e criatividade para transformar ideias em experiências visuais e interativas. Transito com facilidade entre o código, as cores e a comunicação visual, sempre buscando propósito e impacto em cada projeto.
+### 🌟 Minhas preferências:
 
----
+Projetos que unem arte e tecnologia
+Trabalhar com equipes criativas
+Café ☕, bons livros 📚 e músicas empolgantes 🎧
 
-### 💻 Desenvolvedor
-- Experiência com **C** e **Python**
-- Apaixonado por escrever código **limpo**, **escalável** e **bem documentado**
-- Sempre animado para **resolver problemas** e **aprender novas tecnologias**
-
----
-
-### 🎨 Designer & Ilustrador
-- Criação de **identidades visuais**, **interfaces**, **arte conceitual** e **personagens**
-- Ferramentas favoritas: **Paint Tool SAI**, **Photoshop**, **Illustrator**, **Procreate**
-- Foco em **estética**, **usabilidade** e **narrativa visual**
-
----
-
-### 🌟 Minhas preferências
-- Projetos que unem **arte + tecnologia**
-- Trabalhar com **equipes criativas e curiosas**
-- Café forte ☕, bons livros de design 📚 e playlists que empolgam 🎧
-- Sempre **aprendendo e compartilhando conhecimento**
-
----
+### Sempre em busca de aprender e compartilhar conhecimento.
 
 ### 📫 Contato
 
