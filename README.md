@@ -20,7 +20,7 @@ Sou um criador multidisciplinar que une lógica e criatividade para transformar 
 
 ---
 
-### 🌟 My preferences
+### 🌟 Minhas preferências
 - Projetos que unem **arte + tecnologia**
 - Trabalhar com **equipes criativas e curiosas**
 - Café forte ☕, bons livros de design 📚 e playlists que empolgam 🎧
