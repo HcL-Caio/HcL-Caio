@@ -34,4 +34,6 @@ Sou um criador multidisciplinar que une lógica e criatividade para transformar 
 
 Obrigado pela visita! 🚀
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-usuario)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/caio-siqueira-amaral-78538b364/)
+
