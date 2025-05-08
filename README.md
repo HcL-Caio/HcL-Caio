@@ -33,3 +33,5 @@ Sou um criador multidisciplinar que une lógica e criatividade para transformar 
 - **Email alternativo:** caiopcmx@gmail.com
 
 Obrigado pela visita! 🚀
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/seu-usuario)
